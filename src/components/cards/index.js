@@ -2,7 +2,12 @@ import React from "react";
 import Card from "./card";
 
 function Cards({ data, category }) {
-  if (!data || !data.results || !Array.isArray(data.results) || data.results.length === 0) {
+  if (
+    !data ||
+    !data.results ||
+    !Array.isArray(data.results) ||
+    data.results.length === 0
+  ) {
     return <div>No data available</div>;
   }
 

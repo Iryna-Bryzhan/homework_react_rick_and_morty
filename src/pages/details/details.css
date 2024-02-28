@@ -1,56 +1,56 @@
-.page-details{
-    height: 100vh;
-    margin: 0 10%;
+.page-details {
+  height: 100vh;
+  margin: 0 10%;
 }
-.details-name{
-    font-size: 35px;
-    font-weight: 700;
-    text-align: center;
-    margin: 4% 0;
+.details-name {
+  font-size: 35px;
+  font-weight: 700;
+  text-align: center;
+  margin: 4% 0;
 }
-.details-iamage-inf{
-    font-size: 20px;
-    font-style: italic;
+.details-iamage-inf {
+  font-size: 20px;
+  font-style: italic;
 }
-.page-details-descr{
-    display: flex;
-    justify-content: space-between;
+.page-details-descr {
+  display: flex;
+  justify-content: space-between;
 }
-.details-information{
-    width: 65%;
+.details-information {
+  width: 65%;
 }
-.details-iamage{
-    width: 30%;
-    text-align: center;
+.details-iamage {
+  width: 30%;
+  text-align: center;
 }
-.details-information-title{
-    font-size: 26px;
-    font-weight: 600;
-    margin-bottom: 1%;
+.details-information-title {
+  font-size: 26px;
+  font-weight: 600;
+  margin-bottom: 1%;
 }
-.details-information-text{
-    font-size: 23px;
-    margin-bottom: 2%;
+.details-information-text {
+  font-size: 23px;
+  margin-bottom: 2%;
 }
-.details-information-text a{
-    color: black;
+.details-information-text a {
+  color: black;
 }
-.details-information-episode a{
-    color: black;
-    font-size: 23px;
-    margin-bottom: 2%;
+.details-information-episode a {
+  color: black;
+  font-size: 23px;
+  margin-bottom: 2%;
 }
-.details-information-episode{
-    display: flex;
-    flex-wrap: wrap;
+.details-information-episode {
+  display: flex;
+  flex-wrap: wrap;
 }
-.details-information-item-episode{
-    width: 25%;
-    margin-bottom: 2%;
+.details-information-item-episode {
+  width: 25%;
+  margin-bottom: 2%;
 }
-.flex{
-    display: flex;
+.flex {
+  display: flex;
 }
-.details-information-text div{
-    margin-left: 5%;
+.details-information-text div {
+  margin-left: 5%;
 }

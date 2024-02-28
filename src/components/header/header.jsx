@@ -1,15 +1,15 @@
 import React from "react";
 import Navigation from "../navigation/navigation";
-import "./header.css"
+import "./header.css";
 
-function Header({click}){
-    return(
-        <>
-        <header >
-            <Navigation click={click}></Navigation>
-        </header>
-        </>
-    )
+function Header({ click }) {
+  return (
+    <>
+      <header>
+        <Navigation click={click}></Navigation>
+      </header>
+    </>
+  );
 }
 
-export default Header
+export default Header;

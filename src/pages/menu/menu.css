@@ -1,26 +1,24 @@
-
-.screen2{
-    height: 100vh;
+.screen2 {
+  height: 100vh;
 }
-.screen2 h1{
-    padding: 3%;
-    text-align: center;
+.screen2 h1 {
+  padding: 3%;
+  text-align: center;
 }
-.pagination{
-    margin: 0 auto;
-    width: 60%;
-    text-align: center;
-    height: 100px;
+.pagination {
+  margin: 0 auto;
+  width: 60%;
+  text-align: center;
+  height: 100px;
 }
-.pagination button{
-    height: 30px;
-    width: 30px;
-    margin: 5px;
-    cursor: pointer;
-    border: 1px solid #3498db;
+.pagination button {
+  height: 30px;
+  width: 30px;
+  margin: 5px;
+  cursor: pointer;
+  border: 1px solid #3498db;
 }
-.pagination button.active{
-    background-color: #3498db; 
-    color: #ffffff;
-  }
-  
+.pagination button.active {
+  background-color: #3498db;
+  color: #ffffff;
+}

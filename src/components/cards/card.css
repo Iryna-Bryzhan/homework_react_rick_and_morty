@@ -1,66 +1,65 @@
-.card img{
-    width: 100%;
-    border-radius: 4px 4px 0 0;
+.card img {
+  width: 100%;
+  border-radius: 4px 4px 0 0;
 }
 
-.cards{
-    display: flex;
-    flex-wrap: wrap;
-    gap: 2%;
-    padding: 2% 10%;
-    justify-content: center;
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2%;
+  padding: 2% 10%;
+  justify-content: center;
 }
 
-.card{
-    color: black;
-    text-align: center;
-    max-width: 23%;
-    margin-bottom: 3%;
-    background-color: white;
-    border: 1px solid black;
-    box-shadow: 0px 6px 8px -3px rgba(0,0,0,0.75);
-    border-radius: 4px;
-    border: none;
+.card {
+  color: black;
+  text-align: center;
+  max-width: 23%;
+  margin-bottom: 3%;
+  background-color: white;
+  border: 1px solid black;
+  box-shadow: 0px 6px 8px -3px rgba(0, 0, 0, 0.75);
+  border-radius: 4px;
+  border: none;
 }
 .card:hover,
-.card-small:hover{
-    box-shadow: 0px 6px 10px -5px rgba(0,0,0,0.75);
-    scale: 102%;
+.card-small:hover {
+  box-shadow: 0px 6px 10px -5px rgba(0, 0, 0, 0.75);
+  scale: 102%;
 }
 .card a,
-.card-small a{
-    text-decoration: none;
-    color: black;
+.card-small a {
+  text-decoration: none;
+  color: black;
 }
-.card-info{
-    padding: 15px 20px;
-    text-align: start;
+.card-info {
+  padding: 15px 20px;
+  text-align: start;
 }
-.card-small{
-    text-align: center;
-    padding: 2% 1%;
-    width: 23%;
-    max-height: 160px;
-    background-color: #FAFAFA;
-    box-shadow: -1px 2px 12px 1px #00000024;
-    margin-bottom: 2%;
+.card-small {
+  text-align: center;
+  padding: 2% 1%;
+  width: 23%;
+  max-height: 160px;
+  background-color: #fafafa;
+  box-shadow: -1px 2px 12px 1px #00000024;
+  margin-bottom: 2%;
 }
-.card-name{
-    font-weight: 600;
-    font-size: 21px;
-    line-height: 30px;
+.card-name {
+  font-weight: 600;
+  font-size: 21px;
+  line-height: 30px;
 }
-.card-small-p{
-    font-weight: 400;
-    font-size: 19px;
-    line-height: 21px;
-    color: #00000099;
-    padding: 2% 0;
+.card-small-p {
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 21px;
+  color: #00000099;
+  padding: 2% 0;
 }
-.card-small-p-m{
-    font-weight: 600;
-    font-size: 20px;
-    line-height: 21px;
-    color: #00000099;
+.card-small-p-m {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 21px;
+  color: #00000099;
 }
-

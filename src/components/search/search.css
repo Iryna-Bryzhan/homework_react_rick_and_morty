@@ -1,10 +1,10 @@
-.search input{
-    border: 1px solid rgba(0, 0, 0, 0.5);
-    border-radius: 8px;
-    width: 500px;
-    padding: 1rem;
-    padding-left: 3rem;
-    background-image: url("../../img/icon.svg");
-    background-repeat: no-repeat;
-    background-position: 16px center;
+.search input {
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  border-radius: 8px;
+  width: 500px;
+  padding: 1rem;
+  padding-left: 3rem;
+  background-image: url("../../img/icon.svg");
+  background-repeat: no-repeat;
+  background-position: 16px center;
 }
